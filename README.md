@@ -1,4 +1,4 @@
-# Vulkan Tutorial tests
+# Vulkan Tutorial test
 
 This is a test project following https://vulkan-tutorial.com/Introduction
 
